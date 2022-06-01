@@ -1,0 +1,9 @@
+#header, .module caption, .breadcrumbs{
+    background: #446600;
+}
+.breadcrumbs, .current-mode]{
+    background: #243600  !important;
+}
+a:link, a:visited{
+    color: #00ff2f;
+}
